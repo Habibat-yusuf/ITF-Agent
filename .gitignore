@@ -1,0 +1,37 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.env
+ai_automation_env/
+__pycache__/
+pyvenv.cfg
+ITF BROCHURE.pdf
+Practice folder
+WEEK 1
+WEEK 2
+WEEK 3
+WEEK 4
+WEEK 5
+WEEK 6
+WEEK 7
+WEEK 8
+WEEK 9
+WEEK 10
+WEEK 11
+WEEK 12
+python lesson.py
+db test.py
+working environment and online presence setup.docx
+
+# Python virtual environment
+ai_automation_env/
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Editor settings
+.vscode/
