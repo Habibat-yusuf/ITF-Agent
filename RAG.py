@@ -197,7 +197,7 @@ def process_and_store_document(
 def retrieve_context(
     query: str,
     match_count: int = 3,
-    match_threshold: float = 0.3,
+    match_threshold: float = 0.1,
 ) -> dict:
     """Retrieve relevant document chunks from Supabase."""
     if not query.strip():
